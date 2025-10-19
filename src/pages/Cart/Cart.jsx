@@ -1,5 +1,5 @@
 import "./Cart.css";
-import CartCard from "../../components/cartCard/CartCard";
+import CartCard from "../../components/CartCard/CartCard";
 import ec from "../../assets/emptycart.png";
 import { useSelector } from "react-redux";
 
