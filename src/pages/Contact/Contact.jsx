@@ -7,7 +7,7 @@ function Contact() {
       <form action="https://formspree.io/f/xdkwgdar" method="POST">
         <input
           type="text"
-          placeholder="Enter your Name..."
+          placeholder="Enter your Name"
           name="username"
           required
         />
